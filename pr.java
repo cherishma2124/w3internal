@@ -1,6 +1,6 @@
 public class pr {
     public static void main(String[] args) {
-        int num = 10;
+        int num = 101;
         boolean isPrime = true;
 
         for (int i = 2; i <= num / 2; i++) {
